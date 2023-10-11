@@ -4,7 +4,7 @@
     }
     
     .cabeçalho{
-    background-color: rgb(205, 255, 213);
+    background-color: rgb(250, 255, 205);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -38,6 +38,6 @@
     }
     
     .imagem_arvore{
-    width: 12%;
+    width: 15%;
     }
   
